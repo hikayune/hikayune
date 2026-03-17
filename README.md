@@ -9,6 +9,7 @@
 ## About me
 I'm Isabella (she/her), a curious developer who enjoys learning and building projects.
 
+- actually in love with my fiancée elie ❤️
 - 🔭 Currently working on: personal projects and continuous learning
 - 🌱 Learning new tools and languages, acctually luau i think?
 - 👯 Open to collaborate on front-end, bots, and small apps
