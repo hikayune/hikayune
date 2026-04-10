@@ -7,7 +7,7 @@
 </p>
 
 ## About me
-I'm Isabella (she/her), a curious developer who enjoys learning and building projects.
+I'm Isabella (she/he), a curious developer who enjoys learning and building projects.
 
 - actually in love with my fiancée elie ❤️
 - 🔭 Currently working on: personal projects and continuous learning
