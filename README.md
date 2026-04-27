@@ -57,7 +57,7 @@
   <summary>Interests</summary>
   <br>
 
-  <a href="https://osu.ppy.sh/">
+  <a href="https://en.wikipedia.org/wiki/Category:Rhythm_games">
     <img src="https://img.shields.io/badge/Rhythm%20Games-FF66AA?style=for-the-badge&logo=applearcade&logoColor=white" />
   </a>
   <a href="https://myanimelist.net/anime/genre/26/Girls_Love">
