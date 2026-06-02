@@ -87,8 +87,11 @@
   <summary>Featured Projects</summary>
   <br>
   <!-- START_FEATURED -->
-| Project | Description | Stack | Status |
-|---|---|---:|---:|
-| [**featured projects**](https://github.com/miyunaq) | This section updates automatically from my public repositories. | GitHub | auto |
+- [XBStreamer](https://github.com/miyunaq/XBStreamer) — XBStreamer is an open-source client for xCloud and Xbox home streaming made in Typescript. a fork from greenlight.
+- [better-xcloud-tv](https://github.com/miyunaq/better-xcloud-tv)
+- [osu-framework](https://github.com/miyunaq/osu-framework) — A game framework written with osu! in mind.
+- [rosu-pp-py](https://github.com/miyunaq/rosu-pp-py) — osu! difficulty and pp calculation for all modes
+- [osudroid-rx-server-frontend](https://github.com/miyunaq/osudroid-rx-server-frontend)
+- [osudroid-rx-server-backend](https://github.com/miyunaq/osudroid-rx-server-backend)
 <!-- END_FEATURED -->
 </details>
