@@ -22,7 +22,7 @@ jobs:
       - name: Run update script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: 'renakome'
+          GH_USERNAME: 'miyunaq'
         run: |
           node .github/scripts/update-featured.js
 
